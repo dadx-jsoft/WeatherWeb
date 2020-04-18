@@ -7,7 +7,9 @@ The website show current weather and forecast weather by enter the city name.
 + jdk 8
 + Kotlin/Java Library for OpenWeatherMap.org Weather APIs: owm-japis-2.5.3.0.jar
 + Some dependencies: 
-    <dependency>
+<dependencies>
+
+		<dependency>
 			<groupId>org.jetbrains.kotlin</groupId>
 			<artifactId>kotlin-runtime</artifactId>
 			<version>1.2.0</version>
@@ -37,3 +39,5 @@ The website show current weather and forecast weather by enter the city name.
 			<artifactId>converter-gson</artifactId>
 			<version>2.3.0</version>
 		</dependency>
+		
+	</dependencies>
