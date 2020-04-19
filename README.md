@@ -1,5 +1,5 @@
 # WeatherWeb
-The website show current weather and forecast weather by entering the city name.
+The website shows current weather and forecast weather by entering the city name.
 + Using jsp, servlet.
 + Using OpenWeatherAPI 
 
