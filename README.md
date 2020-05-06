@@ -48,3 +48,8 @@ The website shows current weather and forecast weather by entering the city name
 2. Call this object's {obj1} functions to get the desired weather data (such as current weather, daily forecast, etc.).
 	The data is returned as a new object {obj2} of a compatible class based on the type of asked/retrieved weather data (current weather data comes in a different class's object than daily forecast data).
 3. Call this returned object's {obj2} functions to get the required information from the collective weather data (like humidity, temperature, pressure, wind speed, etc.).
+# reference
++ https://openweathermap.org/
++ https://github.com/iamashks/OWM-JAPIs
++ https://bitbucket.org/akapribot/owm-japis/src/master/
++ https://dnmtechs.com/
